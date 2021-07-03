@@ -5,4 +5,4 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FourierFlows&repo=FourierFlows.jl)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- START gadpp -->
-- navidcy/navidcy, [refs/heads/master@68f60fb603d91d1c35bbad8410392c05810bfd86](https://github.com/navidcy/navidcy/commit/68f60fb603d91d1c35bbad8410392c05810bfd86)
+- navidcy/navidcy, [refs/heads/master@67252652a063e7094137f553a503658191a07bd6](https://github.com/navidcy/navidcy/commit/67252652a063e7094137f553a503658191a07bd6)
